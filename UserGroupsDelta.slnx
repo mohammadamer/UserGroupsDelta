@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="UserGroupsDelta/UserGroupsDelta.csproj" />
+  <Project Path="UserGroupsDelta.Tests/UserGroupsDelta.Tests.csproj" />
+</Solution>
